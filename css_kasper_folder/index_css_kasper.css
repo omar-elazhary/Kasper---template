@@ -645,7 +645,7 @@ header nav .search {
 
 .video-section {
     margin-bottom: var(--section-bottom-margin);
-    height: 100vh;
+    height: 110vh;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -690,7 +690,6 @@ header nav .search {
     border-radius: var(--main-border-rudias);
     padding: 10px 40px;
     font-weight: bold;
-    /* border: 3px solid var(--main-color); */
     transition: var(--main-transition);
 }
 
